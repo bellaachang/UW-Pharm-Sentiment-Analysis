@@ -7,6 +7,6 @@ Quarterly reflections from over 150 students were meticulously managed and organ
 
 My role extended to employing sophisticated computational methods. Utilizing VADER sentiment analysis and the NLTK Python library, I quantified the tonal nuances and emotional undercurrents present in the reflections. Furthermore, leveraging text parsing and SpaCy, a specialized NLP library adept in part-of-speech tagging, I identified prevailing verbs and nouns within each distinct self-care category. These analytical methodologies contributed significantly to the comprehensive understanding of student experiences and perceptions regarding the beta curriculum.
 
-The culmination of this rigorous data analysis culminated in a presentation at the esteemed American College of Clinical Pharmacy conference held in Dallas in July 2023, wherein the results and insights garnered from this study were shared with the national academic community.
+The culmination of this rigorous data analysis culminated in a presentation at the esteemed American College of Clinical Pharmacy conference held in Colorado in July 2023, wherein the results and insights garnered from this study were shared with the national academic community.
 
 Data and code is limited for student privacy. Official presentation available only. Ongoing research project.
