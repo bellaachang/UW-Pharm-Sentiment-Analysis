@@ -1,5 +1,5 @@
 # UW-Pharm-Sentiment-Analysis
-![alt text](https://sop.washington.edu/wp-content/uploads/Bracken_Lab-750x450.jpg)
+![alt text]([https://sop.washington.edu/wp-content/uploads/Bracken_Lab-750x450.jpg](https://sop.washington.edu/wp-content/uploads/pharmd-apply-1.jpg))
 
 During the winter and spring quarters of 2022 and 2023, I collaborated with UW Pharmacy in a comprehensive assessment of student reflections integrated into a pioneering mandatory self-care curriculum. The initiative aimed to gauge the impact of dedicated self-care practices within the educational framework.
 
