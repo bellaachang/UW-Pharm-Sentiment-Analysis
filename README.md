@@ -1,5 +1,4 @@
 # UW-Pharm-Sentiment-Analysis
-![alt text](https://sop.washington.edu/wp-content/uploads/pharmd-apply-1.jpg)
 
 I am collaborating with UW Pharmacy in a comprehensive assessment of student reflections integrated into a pioneering mandatory self-care curriculum. The initiative aims to gauge the impact of dedicated self-care practices within the educational framework.
 
